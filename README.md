@@ -1,7 +1,7 @@
 # SurMinus - Advanced Game Client
 
 **SurMinus** is an advanced browser extension client for Surviv.io, providing powerful features to enhance your gameplay experience.
-
+This client is a fork from Surplus
 ## ✨ Features
 
 ### Combat Features
